@@ -1,0 +1,25 @@
+{
+  "name": "node-app-server",
+  "version": "1.0.0",
+  "description": "Node App Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkelgrg/node-app.git"
+  },
+  "author": "Pinkel Gurung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinkelgrg/node-app/issues"
+  },
+  "homepage": "https://github.com/pinkelgrg/node-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "nodemon": "^1.14.7"
+  }
+}
